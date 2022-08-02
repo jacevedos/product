@@ -1,6 +1,7 @@
 /* Custom properties */
 :root {
     --dark-cyan-color: hsl(158, 36%, 37%);
+    --dark-cyan-hover-color: hsl(157, 32%, 24%);
     --cream-color: hsl(30, 38%, 92%);
     --dark-blue-color: hsl(212, 21%, 14%);
     --dark-grayish-blue-color: hsl(228, 12%, 48%);
@@ -127,6 +128,12 @@ body{
     border-radius: 0.6rem;
     font-family: var(--monserrat-font);
     font-size: 0.8rem;
+    transition: all 0.3s ease;
+}
+
+.elements button:hover{
+    background-color: var(--dark-cyan-hover-color);
+    cursor: pointer;
 }
 
 .price-btn h2{
