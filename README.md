@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://jacevedos.github.io/product/)
+- Solution URL: [Solution](https://jacevedos.github.io/product/)
 
 ## My process
 
