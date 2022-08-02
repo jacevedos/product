@@ -38,6 +38,7 @@ body{
 }
 
 .card{
+    min-width: 670px;
     margin-left: auto;
     margin-right: auto;
     width:670px;
@@ -161,6 +162,7 @@ body{
 @media only screen and (max-width: 375px) {
         
     .card{
+        min-width: 250px;
         margin-left: auto;
         margin-right: auto;
         width:90%;
