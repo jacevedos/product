@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://www.https://github.com/jacevedos)
+- Github - [Juan Jose Acevedo Serna](https://www.https://github.com/jacevedos)
 
